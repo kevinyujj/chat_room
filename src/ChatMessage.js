@@ -18,6 +18,7 @@ function ChatMessage(props) {
 export default ChatMessage
 
 const Container = styled.div`
+    display: flex;
 `
 
 const UserIcon = styled.img`

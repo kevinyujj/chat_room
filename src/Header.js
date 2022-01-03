@@ -19,12 +19,14 @@ function Header() {
 export default Header
 
 const Container = styled.div`
+    position: sticky;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    min-height: 60px;
+    min-height: 80px;
     top: 0;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,1);
+    z-index: 1;
 `
 
 const SignOutButton = styled.button`
