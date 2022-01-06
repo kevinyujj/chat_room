@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Multi-person online chatroom
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is deployed and can be visit at https://online-chat-b8d6f.web.app/.
 
 ## Available Scripts
 
